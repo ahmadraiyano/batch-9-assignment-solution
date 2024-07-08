@@ -1,0 +1,11 @@
+.banner-container {
+    max-width: 1320px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url('../images/Banner.png');
+    background-repeat: no-repeat;
+    background-position: cover;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-blend-mode: overlay;
+}
